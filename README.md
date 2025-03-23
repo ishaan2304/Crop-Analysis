@@ -12,6 +12,8 @@ To run the analysis, you will need to have Jupyter Notebook installed. You can i
 
 ```bash
 pip install notebook
-
+```
 # Clone the repository
 ```bash
+https://github.com/ishaan2304/Crop-Analysis.git
+```
