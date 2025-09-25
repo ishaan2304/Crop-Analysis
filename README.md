@@ -1,6 +1,6 @@
 # Crop Analysis
 
-This repository contains a comprehensive analysis of crop harve=sting in different states using Jupyter Notebooks. The analysis aims to explore various aspects of crop yield, patterns, and other relevant data to provide insightful conclusions and visualizations
+This repository contains a comprehensive analysis of crop harve=sting in different states using Jupyter Notebooks. The analysis aims to explore various aspects of crop yield, patterns, and other relevant data to provide insightful conclusions and visualizationsm
 
 ## Repository Structure
 
